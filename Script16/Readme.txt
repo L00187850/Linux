@@ -1,0 +1,1 @@
+#I changed the script to show that instead of just zero, that if the argument is less than 27 it #states "$1 is less than 27", then if it is 30 it'll say $1 is equal to 30!, and anything #greater than 50 it'll say "$1 is greater than 50"
